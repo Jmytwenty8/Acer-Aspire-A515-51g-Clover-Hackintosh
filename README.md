@@ -121,4 +121,4 @@ $ sudo pmset -a autopoweroff 0
 - Thanks to [goodwin](https://github.com/goodwin/) for [ALCPlugfix](https://github.com/goodwin/ALCPlugFix).
 - Thanks to [alexandred](https://github.com/alexandred/) for [VoodooI2C](https://github.com/alexandred/VoodooI2C).
 - Thanks to [daliansky](https://github.com/daliansky/) for Some Patches which I used here from [XiaoMi-Pro](https://github.com/daliansky/XiaoMi-Pro/).
-- Thanks to [SiddheshNan][https://github.com/SiddheshNan/Acer-A515-51G-Hackintosh] for his CLOVER/EFI. All credit goes to him. This EFI is adapted for my system and for personal use only. Please refer to his repo for info and enquiries.
+- Thanks to [SiddheshNan](https://github.com/SiddheshNan) for his [CLOVER/EFI](https://github.com/SiddheshNan/Acer-A515-51G-Hackintosh). All credit goes to him. This EFI is adapted for my system and for personal use only. Please refer to his repo for info and enquiries.
