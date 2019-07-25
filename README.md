@@ -65,6 +65,8 @@ $ sudo pmset -a standby 0
 
 $ sudo pmset -a autopoweroff 0
 
+$ sudo trimforce enable ### For SSD only.
+
 ```
 
 - To fix the cracking sound from headphones, please see [ALCPlugFix](https://github.com/Siddhesh9146/Acer-E515-51G-Hackintosh/tree/master/ALCPlugFix).
