@@ -1,5 +1,5 @@
  # Acer-A515-51G-Hackintosh
-#### Supports MacOS 10.15,10.14.x and 10.13.x
+#### Supports MacOS 10.15, 10.14.x and 10.13.x
 
 <p align="center">
   <img src="https://i.imgur.com/Kq1z0hh.png" alt="Specs">
@@ -20,6 +20,7 @@
  - [x] Usb 3.0 + Type C
  - [x] Sleep From (Lid)
  - [x] Native hotkey support w/ Fn keys
+ - [x] Internal SD Card reader
 
 <p align="center">
   <img src="https://i.imgur.com/A0cKRrX.png" alt="Benchmarks">
@@ -65,7 +66,7 @@ $ sudo pmset -a standby 0
 
 $ sudo pmset -a autopoweroff 0
 
-$ sudo trimforce enable ### For SSD only.
+$ sudo trimforce enable  ###For SSD only.
 
 ```
 
@@ -124,3 +125,5 @@ $ sudo trimforce enable ### For SSD only.
 - Thanks to [alexandred](https://github.com/alexandred/) for [VoodooI2C](https://github.com/alexandred/VoodooI2C).
 - Thanks to [daliansky](https://github.com/daliansky/) for Some Patches which I used here from [XiaoMi-Pro](https://github.com/daliansky/XiaoMi-Pro/).
 - Thanks to [SiddheshNan](https://github.com/SiddheshNan) for his [CLOVER/EFI](https://github.com/SiddheshNan/Acer-A515-51G-Hackintosh). All credit goes to him. This EFI is adapted for my system and for personal use only. Please refer to his repo for info and enquiries.
+- Thanks to [Sinetek](https://github.com/sinetek) for [Sinetek-rtsx](https://github.com/sinetek/Sinetek-rtsx).
+- Thanks to [al3xtjames](https://github.com/al3xtjames) for [NoTouchID](https://github.com/al3xtjames/NoTouchID).
