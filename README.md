@@ -2,7 +2,7 @@
 #### Supports MacOS 10.15, 10.14.x and 10.13.x
 
 <p align="center">
-  <img src="https://imgur.com/a/ORRx4Ze" alt="Specs">
+  <img src="https://imgur.com/mWFpmzz" alt="Specs">
 </p>
 
 
